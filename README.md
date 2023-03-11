@@ -35,7 +35,7 @@ $ mkdir react-ignite-watchme
 # Clone este repositório para a pasta anteriormente criada
 
 $ git clone https://github.com/augustohermes/desafio-02-componentizando-a-aplicacao.git
-# ou use a opção de <a href="https://rocketseat.com.br">download deste repositório clicando aqui.</a>
+# <p>ou use a opção de <a href="https://rocketseat.com.br">download deste repositório clicando aqui</a>.</p>
 
 # Instale as dependências necessárias
 
