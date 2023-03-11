@@ -11,7 +11,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/augustohermes/desafio-02-componentizando-a-aplicacao?color=%2304D361?style=flat-square">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/augustohermes/desafio-02-componentizando-a-aplicacao?style=flat-square">
+  [<img alt="Repository size" src="https://img.shields.io/github/repo-size/augustohermes/desafio-02-componentizando-a-aplicacao?style=flat-square">](https://img.shields.io/tokei/lines/github/augustohermes/desafio-02-componentizando-a-aplicacao)
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/augustohermes/desafio-02-componentizando-a-aplicacao?style=flat-square">
 </p>
 
@@ -27,26 +27,36 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.   
 
 ## ⚙️ Rodando o Projeto
-```bash
-# Crie uma pasta 
 
+Crie uma pasta
+
+```sh
 $ mkdir react-ignite-watchme
+```
 
-# Clone este repositório para a pasta anteriormente criada
+Clone este repositório para a pasta anteriormente criada
 
+```sh
 $ git clone https://github.com/augustohermes/desafio-02-componentizando-a-aplicacao.git
-# ou use a opção de download deste repositório.
+```
+ou use a opção de download deste repositório.
 
-# Instale as dependências necessárias
+**Instale as dependências necessárias**
 
+```sh
 $ yarn install
+```
 ou
+```sh
 $ npm install
+```
 
-# Fake API com JSON Server
-# Abra um terminal que esteja na pasta do projeto e digite o seguinte comando:
+**Fake API com JSON Server**
 
+Abra um terminal que esteja na pasta do projeto e digite o seguinte comando:
+```sh
 $ yarn server
+```
 
 # Executando o projeto
 
