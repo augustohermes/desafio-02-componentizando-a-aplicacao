@@ -69,7 +69,5 @@ $ npm dev
 ## Acesse http://localhost:8080 no seu navegador
 
 <br>
----
 
 Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes).
-
