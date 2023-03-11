@@ -62,4 +62,4 @@ $ yarn dev
 
 <br>
 
-Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes).
+Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes) 👋.
