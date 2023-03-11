@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github/ignite.png">
+  <img alt="Capa do desafio 2" width="90%" src="./.github/ignite.png">
 </div>
 
 <h1 align="center"> RocketSeat 🚀 Ignite ReactJS </h1>
