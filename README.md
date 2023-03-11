@@ -2,7 +2,7 @@
   <img alt="Capa do desafio 2" width="90%" src="./.github/ignite.png">
 </div>
 
-<h1 align="center"> RocketSeat 🚀 Ignite ReactJS </h1>
+<h1 align="center"> RocketSeat 🚀 Ignite ReactJS 🔥</h1>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -13,7 +13,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/augustohermes/desafio-02-componentizando-a-aplicacao?style=flat-square">
 </p>
 
-## 🔥 Sobre o Projeto
+## 💻 Detalhes do desafio
 
 Essa será uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 
@@ -24,7 +24,7 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.   
 
-## ⚙️ Rodando o Projeto
+## ⚙️ Rodando o projeto
 
 ## Crie uma pasta
 
@@ -35,7 +35,7 @@ $ mkdir react-ignite-watchme
 ## Clone este repositório para a pasta anteriormente criada
 
 ```sh
-$ git clone https://github.com/augustohermes/desafio-02-componentizando-a-aplicacao.git
+$ git clone https://github.com/augustohermes/desafio-02-componentizando-a-aplicacao.git && cd desafio-02-componentizando-a-aplicacao
 ```
 ou use a opção de download deste repositório.
 
@@ -43,10 +43,6 @@ ou use a opção de download deste repositório.
 
 ```sh
 $ yarn install
-```
-ou
-```sh
-$ npm install
 ```
 
 ## Fake API com JSON Server
@@ -60,10 +56,6 @@ $ yarn server
 
 ```sh
 $ yarn dev
-```
-ou
-```sh
-$ npm dev
 ```
 
 ## Acesse http://localhost:8080 no seu navegador
