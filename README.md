@@ -15,7 +15,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/augustohermes/desafio-02-componentizando-a-aplicacao?style=flat-square">
 </p>
 
-# 🔥 Sobre o Projeto
+## 🔥 Sobre o Projeto
 
 Essa será uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 
@@ -26,7 +26,7 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.   
 
-# ⚙️ Rodando o Projeto
+## ⚙️ Rodando o Projeto
 
 ## Crie uma pasta
 
@@ -58,7 +58,7 @@ Abra um terminal que esteja na pasta do projeto e digite o seguinte comando:
 $ yarn server
 ```
 
-# Executando o projeto
+## Executando o projeto
 
 ```sh
 $ yarn dev
