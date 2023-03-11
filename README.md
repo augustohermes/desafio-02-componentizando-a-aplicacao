@@ -4,8 +4,6 @@
 
 <h1 align="center"> RocketSeat 🚀 Ignite ReactJS </h1>
 
-<h2 align="center"> Desafio 02 - Componentizando a aplicação (Aplicação WatchMe)</h2>
-
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
